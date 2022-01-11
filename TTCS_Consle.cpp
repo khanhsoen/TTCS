@@ -1,8 +1,6 @@
-#include <fstream>
-#include <string.h>
+#include <iostream>
 using namespace std;
-#define fi "KRUSKAL.INP" // file nhap
-#define fo "KRUSKAL.OUT" // file xuat
+
 
 const int MAXN = 1000;
 const int MAXM = 1000;
@@ -16,15 +14,15 @@ int n, m;// n la so canh, m la so dong trong file
 Canh a[MAXM];
 int father[MAXN];
 
-fstream f;
 
 void Nhap() {
-    f.open(fi, ios::in);
-    f >> n >> m;
+    cout << "Nhap so dinh: ";
+    cin >> n;
+    cout << "Nhap so canh: ";
+    cin >> m;
     for (int i=1; i <= m; i++) {
-		f >> a[i].dinhdau >> a[i].dinhcuoi >> a[i].dodai;
+		cin >> a[i].dinhdau >> a[i].dinhcuoi >> a[i].dodai;
 	}
-    f.close();
 }
 
 void SapXep() {
@@ -58,7 +56,7 @@ void Kruskal() {
     int tong = 0;
     int x, y, z;
     int r1, r2;
-    f.open(fo, ios::out);
+   
     for (i=1; i <= m; i++) {
         if (dem == n-1) break;
         x = a[i].dinhdau;
@@ -68,14 +66,13 @@ void Kruskal() {
         r2 = root(y);
 
         if (r1 != r2) {
-            f << x << "   " << y  << "   " << z << endl; /// end line
+            cout << x << "	"<< y <<"	"<< z << endl; /// end line
             dem++;
             tong = tong + a[i].dodai;
             hopnhat(r1, r2);
         }
     }
-    f << "Tong trong so cua cay khung be nhat la: " << tong;
-    f.close();
+    cout << "Tong cay khung nho nhat la: " << tong;
 }
 
 

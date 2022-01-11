@@ -1,0 +1,36 @@
+D:\Program Files\TTCS_demo\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.exe
+D:\Program Files\TTCS_demo\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.deps.json
+D:\Program Files\TTCS_demo\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.runtimeconfig.json
+D:\Program Files\TTCS_demo\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.dll
+D:\Program Files\TTCS_demo\App_demo\App_demo\bin\Debug\net6.0-windows\ref\App_demo.dll
+D:\Program Files\TTCS_demo\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.pdb
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.csproj.AssemblyReference.cache
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.Cost.resources
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.Form1.resources
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.csproj.GenerateResource.cache
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.AssemblyInfoInputs.cache
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.AssemblyInfo.cs
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.csproj.CoreCompileInputs.cache
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.dll
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\ref\App_demo.dll
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.pdb
+D:\Program Files\TTCS_demo\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.genruntimeconfig.cache
+D:\HOCTAP\TTCS\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.exe
+D:\HOCTAP\TTCS\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.deps.json
+D:\HOCTAP\TTCS\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.runtimeconfig.json
+D:\HOCTAP\TTCS\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.dll
+D:\HOCTAP\TTCS\App_demo\App_demo\bin\Debug\net6.0-windows\ref\App_demo.dll
+D:\HOCTAP\TTCS\App_demo\App_demo\bin\Debug\net6.0-windows\App_demo.pdb
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.csproj.AssemblyReference.cache
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.Cost.resources
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.Form1.resources
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.csproj.GenerateResource.cache
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.AssemblyInfoInputs.cache
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.AssemblyInfo.cs
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.csproj.CoreCompileInputs.cache
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.dll
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\ref\App_demo.dll
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.pdb
+D:\HOCTAP\TTCS\App_demo\App_demo\obj\Debug\net6.0-windows\App_demo.genruntimeconfig.cache
